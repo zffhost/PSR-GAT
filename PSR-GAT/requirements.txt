@@ -1,0 +1,13 @@
+h5py~=3.3.0
+numpy~=1.19.2
+torch>=1.0
+torchvision
+pprint
+enum34
+future
+pykeops
+geomloss~=0.2.4
+pointnet2~=3.0.0
+scipy~=1.7.1
+setuptools~=52.0.0
+tqdm~=4.62.0
